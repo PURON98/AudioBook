@@ -1,0 +1,1 @@
+PDF to Audiobook converter with PyQt5 GUI. Extracts text from PDF documents using PyPDF2 and converts to speech using pyttsx3. Features playback controls, voice selection, speed adjustment, and clean desktop interface for study accessibility.
